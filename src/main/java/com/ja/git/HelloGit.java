@@ -6,6 +6,7 @@ public class HelloGit {
 		System.out.println("hello git");
 		System.out.println("change1");
 		System.out.println("create dev");
+		System.out.println("create dev new add");
 	}
 
 }
